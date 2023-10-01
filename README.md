@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khoa1324
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning programing
+- 🌱 I’m currently learning elementary
 - 🇻🇳 I'm from vietnam
 
 <!---
